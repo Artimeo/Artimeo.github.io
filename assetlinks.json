@@ -1,0 +1,16 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "comment": "test application",
+      "package_name": "com.bpc.crossplatform_trading.bpc_trading",
+      "sha256_cert_fingerprints": [
+        "2E:1D:04:C0:30:65:E0:43:0D:1E:29:57:0B:3B:22:8A:54:56:BA:A7:AD:B4:96:78:24:23:E0:70:2B:26:BF:DA"
+      ]
+    }
+  }
+]
+
